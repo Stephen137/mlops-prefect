@@ -6,4 +6,4 @@ deployments:
 - name: taxi_gcp_data
   entrypoint: orchestrate_gcp.py:main_flow_gcp
   work_pool: 
-    name: zoompool
+    name: mlops-zoompool
