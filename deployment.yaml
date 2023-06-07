@@ -8,7 +8,7 @@ deployments:
   work_pool: 
     name: mlops-zoompool
 - name: nyc_taxi_green_2021
-  entrypoint: orchestrate3_4.py:main-flow
+  entrypoint: orchestrate3_4.py:main_flow_3_4
   work_pool: 
     name: mlops-zoompool
 
