@@ -1,5 +1,5 @@
 deployments:
-- name: taxi_local_data
+- name: nyc_taxi_yellow_2022
   entrypoint: orchestrate.py:main_flow
   work_pool: 
     name: mlops-zoompool
