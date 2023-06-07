@@ -3,7 +3,7 @@ deployments:
   entrypoint: orchestrate.py:main_flow
   work_pool: 
     name: mlops-zoompool
-- name: taxi_gcp_data
+- name: nyc_taxi_yellow_2002_gcp
   entrypoint: orchestrate_gcp.py:main_flow_gcp
   work_pool: 
     name: mlops-zoompool
