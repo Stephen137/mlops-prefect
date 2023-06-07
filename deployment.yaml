@@ -15,5 +15,8 @@ deployments:
   entrypoint: orchestrate_j_f_23.py:main_flow_j_f_23
   work_pool: 
     name: mlops-zoompool
-
+- name: nyc_taxi_green_f_m_23
+  entrypoint: orchestrate_f_m_23.py:main_flow_f_m_23
+  work_pool: 
+    name: mlops-zoompool
 
