@@ -1,6 +1,7 @@
 {
   "main-flow": "orchestrate.py:main_flow",
   "main-flow-3-4": "orchestrate3_4.py:main_flow_3_4",
+  "main-flow-f-m-23": "orchestrate_f_m_23.py:main_flow_f_m_23",
   "main-flow-gcp": "orchestrate_gcp.py:main_flow_gcp",
   "main-flow-j-f-23": "orchestrate_j_f_23.py:main_flow_j_f_23"
 }
